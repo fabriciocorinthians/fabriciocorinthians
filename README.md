@@ -1,5 +1,7 @@
 ## Bem - Vindos👋
- ![Uploading image.png…]()
+ 
+ ![image](https://github.com/fabriciocorinthians/fabriciocorinthians/assets/169213525/794a985b-12f0-4ad1-a8a2-771c031c1f66)
+
 
 Meu nome é Maria Eduarda 
 <!--
