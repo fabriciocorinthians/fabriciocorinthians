@@ -4,11 +4,12 @@
 
 
 - Meu nome é Maria Eduarda Fabricio.
-- Estou estudando na ![](Alura)
+- Estou estudando na Alura.
 
 - Estou me desenvolvendo na linguagem JavaScript.
 - Utilizo esse esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
   ## Você pode entrar em contato comigo:
+
   ![](00001105790083sp@al.educacao.sp.gov.br)
 
 <!--
